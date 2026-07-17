@@ -5,7 +5,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Double--Entry%20Ledger-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-# 🏦 Bank Ledger System
+# 🏦 Bank Ledger System 
 
 > A production-grade banking backend API built on **double-entry ledger principles** — engineered for auditability, transactional safety, and financial consistency.
 
