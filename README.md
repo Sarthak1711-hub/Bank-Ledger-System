@@ -16,7 +16,7 @@ Built with **Node.js · Express · MongoDB**
 ## 📌 Overview
 
 The Bank Ledger System is a RESTful backend that models accounts and financial transactions using a ledger-first approach. Every debit and credit is recorded as an immutable ledger entry — making balances fully derivable, reconciliation straightforward, and audit trails complete by design.
-
+ 
 ### Why Ledger-First?
 
 Traditional balance fields are mutable and lossy. A ledger-based model instead treats every financial event as a permanent record. Balances are *computed* from the ledger, never stored directly — eliminating entire classes of inconsistency.
